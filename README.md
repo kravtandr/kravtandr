@@ -14,6 +14,7 @@ I'm an enthusiastic developer with a passion for exploring various aspects of pr
 - **Machine Learning**: Experienced in using TensorFlow, PyTorch, and Scikit-learn for developing and implementing AI models. Successfully trained [model](https://github.com/kravtandr/JHDClassification) to differentiate between fighter jets, helicopters, and drones. Also developed an [application](https://github.com/kravtandr/podoroge) for recognizing vehicle license plates.
 - **DevOps**: Familiar with Docker, CI/CD  practices to optimize development and deployment processes. I also have some experience in Kubernetes and Ansible.
 - **Robotics**:  Developed and programmed a [mobile robot](https://github.com/kravtandr/bbot) for navigation in enclosed spaces using ROS and C++ and a robotic arm capable of grasping objects in front of it.
+- **3D modeling and printing**: Possess basic skills in 3D modeling and practical experience in 3D printing since 2017, utilizing technologies to prototype and realize complex designs.
 
 ### Skills 
 <p align="left">
