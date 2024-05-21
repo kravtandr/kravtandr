@@ -1,21 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Kravtsov
 =======================================================================================================================================
 
-I'm an enthusiastic developer with a passion for exploring various aspects of programming and technology. My experience spans the full spectrum of web development—from frontend to backend—as well as machine learning, DevOps, and robotics. I enjoy creating solutions that simplify and automate complex tasks.
+I'm an enthusiastic developer with a passion for exploring various aspects of programming and technology. My experience spans the full spectrum of web development—from frontend to backend—as well as machine learning, DevOps and robotics. I enjoy creating solutions to simplify and automate complex tasks.
 
 *   🌍  I'm based in Moscow, Russia
 *   ✉️  You can contact me at kravtandr@gmail.com
-*   🚀  I'm currently working on startup [B2B marketplace](http://bi-tu-bi.ru/)
+*   🚀  I'm currently working for startup [B2B marketplace](http://bi-tu-bi.ru/)
 *   🧠  I'm learning DeepLearning))
 *   🤝  I'm open to collaborating on Computer Vision & ROS, Telegram Mini Apps & blockchain
 
 ## 🛠 My Technical Skills:
-- **Web Development**: Skilled in both frontend and backend aspects of web development. I have developed a microservices [backend](https://github.com/kravtandr/b2b-backend) using Go, wrapped in Docker Compose, with React for the [frontend](https://github.com/bitubi-dev/bitubi-frontend). Additionally, I've built a Python FastAPI backend for sending telegram users notifications and worked on several educational projects using Django. Developed several telegram bots with AI models integration as freelance orders [AstarIO](https://t.me/Astario_Bot).
-- **Machine Learning**: Experienced in using TensorFlow, PyTorch, and Scikit-learn for developing and implementing AI models. Successfully trained [model](https://github.com/kravtandr/JHDClassification) to differentiate between fighter jets, helicopters, and drones. Also developed an [application](https://github.com/kravtandr/podoroge) for recognizing vehicle license plates.
+- **Web Development**: Skilled in both frontend and backend aspects of web development. I have developed  microservices [backend](https://github.com/kravtandr/b2b-backend) using Go, wrapped in Docker Compose, with React for the [frontend](https://github.com/bitubi-dev/bitubi-frontend). Additionally, I have created a Python FastAPI backend for sending  notifications to telegram users and worked on several educational projects using Django. I also developed several telegram bots with AI models integration as freelance orders [AstarIO](https://t.me/Astario_Bot).
+- **Machine Learning**: Experienced in using TensorFlow, PyTorch, and Scikit-learn for developing and implementing AI models. I trained [model](https://github.com/kravtandr/JHDClassification) to differentiate between fighter jets, helicopters and drones. I developed an [application](https://github.com/kravtandr/podoroge) for recognizing vehicle license plates.
 - **DevOps**: Familiar with Docker, CI/CD  practices to optimize development and deployment processes. I also have some experience in Kubernetes and Ansible.
 - **Robotics**:  Developed and programmed a [mobile robot](https://github.com/kravtandr/bbot) for navigation in enclosed spaces using ROS and C++ and a robotic arm capable of grasping objects in front of it.
-- **3D modeling and printing**: Possess basic skills in 3D modeling and practical experience in 3D printing since 2017, utilizing technologies to prototype and realize complex designs.
-- **Additional**: Finalist in a MCH2022 hackathon with a with [backend](https://gitlab.com/Denactive/mch2022-backend) of project focused on "Service for collecting and analyzing information about Moscow manufacturers' products to promote import substitution." Developed a 2D space battle royale [game](https://gitlab.com/theantialex/astro-battlefield/-/tree/DevelopDemonstration?ref_type=heads) in pure C++ as an educational project, where the goal is to score as many points as possible by shooting down opponents and destructible asteroids. I also have educational project - [task tracker](https://github.com/iOS-vk-education/2022_1_DeadLine) for IOS.
+- **3D modeling and printing**: Possess sufficient skills in 3D modeling and practical experience in 3D printing since 2017 utilizing these competences to prototype and realize complex designs.
+- **Additional**: Finalist in a MCH2022 hackathon with [backend](https://gitlab.com/Denactive/mch2022-backend) of project focused on "Service for collecting and analyzing information about Moscow manufacturers' products to promote import substitution." Developed a 2D space battle royale [game](https://gitlab.com/theantialex/astro-battlefield/-/tree/DevelopDemonstration?ref_type=heads) in pure C++ as an educational project where the goal is to score as many points as possible by shooting down opponents and destructible asteroids. My IOS app educational project - [task tracker](https://github.com/iOS-vk-education/2022_1_DeadLine).
 
 ### Skills 
 <p align="left">
