@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm an enthusiastic developer with a passion for exploring various aspects of programming and technology. My experience spans the full spectrum of web development—from frontend to backend—as well as machine learning, DevOps, and robotics. I enjoy creating solutions that simplify and automate complex tasks.
 
 *   🌍  I'm based in Moscow, Russia
-*   ✉️  You can contact me at [kravtandr@gmail.com](mailto: kravtandr@gmail.com)
+*   ✉️  You can contact me at kravtandr@gmail.com
 *   🚀  I'm currently working on startup [B2B marketplace](http://bi-tu-bi.ru/)
 *   🧠  I'm learning DeepLearning))
 *   🤝  I'm open to collaborating on Computer Vision & ROS, Telegram Mini Apps & blockchain
