@@ -6,8 +6,8 @@ I'm an enthusiastic developer with a passion for exploring various aspects of pr
 *   🌍  I'm based in Moscow, Russia
 *   ✉️  You can contact me at kravtandr@gmail.com
 *   🚀  I'm currently working for startup [B2B marketplace](http://bi-tu-bi.ru/)
-*   🧠  I'm learning DeepLearning))
-*   🤝  I'm open to collaborating on Computer Vision & ROS, Telegram Mini Apps & blockchain
+*   🧠  I'm learning DeepLearning
+
 
 ## 🛠 My Technical Skills:
 - **Web Development**: Skilled in both frontend and backend aspects of web development. I have developed  microservices [backend](https://github.com/kravtandr/b2b-backend) using Go, wrapped in Docker Compose, with React for the [frontend](https://github.com/bitubi-dev/bitubi-frontend). Additionally, I have created a Python FastAPI backend for sending  notifications to telegram users and worked on several educational projects using Django. I also developed several telegram bots with AI models integration as freelance orders [AstarIO](https://t.me/Astario_Bot).
@@ -26,7 +26,6 @@ I'm an enthusiastic developer with a passion for exploring various aspects of pr
 
 <a href="http://www.github.com/kravtandr"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kravtandr&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/kravtandr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kravtandr&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
