@@ -5,8 +5,6 @@ I'm an enthusiastic developer with a passion for exploring various aspects of pr
 
 *   🌍  I'm based in Moscow, Russia
 *   ✉️  You can contact me at kravtandr@gmail.com
-*   🚀  I'm currently working for startup [B2B marketplace](http://bi-tu-bi.ru/)
-*   🧠  I'm learning DeepLearning
 
 
 ## 🛠 My Technical Skills:
