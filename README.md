@@ -1,11 +1,47 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrew Kravtsov
 =======================================================================================================================================
 
-I'm an enthusiastic developer with a passion for exploring various aspects of programming and technology. My experience spans the full spectrum of web development—from frontend to backend—as well as machine learning, DevOps and robotics. I enjoy creating solutions to simplify and automate complex tasks.
+AI Backend / MLOps Engineer focused on LLM systems, multi-agent architectures, and scalable AI infrastructure.
 
 *   🌍  I'm based in Moscow, Russia
 *   ✉️  You can contact me at kravtandr@gmail.com
 
+## 🚀 Recent Experience (2025–2026)
+
+Over the last year, I have been focused on building production-grade AI systems and multi-agent architectures in both cloud and air-gapped (secure) environments.
+
+### 🤖 Multi-Agent AI Assistant (LangGraph-based)
+Designed and implemented a stateful multi-agent system with dynamic routing and tool usage:
+- Built agent orchestration pipelines using LangGraph  
+- Implemented memory system (RAG + summarized dialogue + structured facts extraction)  
+- Developed custom MCP servers for knowledge retrieval and user context  
+- Added request classification layer to decide when to use RAG vs direct LLM  
+
+### 📚 RAG System in Secure Environment (контур)
+Developed and deployed a full RAG pipeline for internal documentation:
+- Integrated vector DB (Qdrant) with scalable collections  
+- Implemented chunking, summarization, and fact extraction strategies  
+- Filled knowledge base from Confluence and internal sources  
+- Evaluated and integrated rerankers for retrieval quality  
+
+### ⚙️ LLM Infrastructure & OpenClaw Deployment
+Worked on deploying and extending OpenClaw-based LLM infrastructure:
+- Integrated OpenAI-compatible APIs (vLLM / sglang backends)  
+- Added GPT realtime capabilities (streaming, low-latency responses)  
+- Configured multi-instance deployments for load distribution  
+- Optimized GPU usage (kv-cache, batching, memory tuning)  
+
+### 🚀 Auto-Deployment & DevOps
+Built automated deployment pipelines for AI services:
+- Docker + Kubernetes (Ingress, wildcard TLS, multi-domain routing)  
+- CI/CD setup for model and backend updates  
+- Reverse proxy + routing for multiple model instances  
+- Monitoring via Prometheus + Grafana (latency, throughput, errors)  
+
+### 🎙 Voice Interfaces (STT/TTS Integration)
+Extended multi-agent system with real-time voice interaction:
+- Implemented speech-to-text and text-to-speech pipelines  
+- Integrated voice into agent workflow for conversational UX  
 
 ## 🛠 My Technical Skills:
 - **Web Development**: Skilled in both frontend and backend aspects of web development. I have developed  microservices [backend](https://github.com/kravtandr/b2b-backend)(2022-2024) using Go, wrapped in Docker Compose, with React for the [frontend](https://github.com/bitubi-dev/bitubi-frontend)(2022-2024). Additionally, I have created a Python FastAPI backend for sending  notifications to telegram users and worked on several educational projects using Django. I also developed several telegram bots/webaps with AI models integration as freelance orders ex. [AstarIO](https://t.me/Astario_Bot)(2024), [Aimax](https://develop.aimax-stg.ru/)(2025), [AnimateYou](https://links-animateyou.ru)(2025).
