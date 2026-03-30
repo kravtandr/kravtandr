@@ -17,7 +17,7 @@ Designed and implemented a stateful multi-agent system with dynamic routing and 
 - Developed custom MCP servers for knowledge retrieval and user context  
 - Added request classification layer to decide when to use RAG vs direct LLM  
 
-### 📚 RAG System in Secure Environment (контур)
+### 📚 RAG System in Secure Environment 
 Developed and deployed a full RAG pipeline for internal documentation:
 - Integrated vector DB (Qdrant) with scalable collections  
 - Implemented chunking, summarization, and fact extraction strategies  
