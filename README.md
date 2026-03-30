@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI Backend / MLOps Engineer focused on LLM systems, multi-agent architectures, and scalable AI infrastructure.
 
 *   🌍  I'm based in Moscow, Russia
-*   ✉️  You can contact me at kravtandr@gmail.com
+*   ✉️  You can contact me at
+        * [Telegram](https://t.me/kravtandr)
+        * [Email](kravtandr@gmail.com)
+
 
 ## 🚀 Recent Experience (2025–2026)
 
