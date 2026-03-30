@@ -6,7 +6,7 @@ AI Backend / MLOps Engineer focused on LLM systems, multi-agent architectures, a
 *   🌍  I'm based in Moscow, Russia
 *   ✉️  You can contact me at
        * [Telegram](https://t.me/kravtandr)
-       * [Email](kravtandr@gmail.com)
+       * kravtandr@gmail.com
 
 
 ## 🚀 Recent Experience (2025–2026)
